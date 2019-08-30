@@ -1,6 +1,6 @@
 ---
 title: "Your blog post title"
-date:  YYYY-MM-DD
+date:  2019-08-30
 ---
 
 ## The Different Programming Paradigms
